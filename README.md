@@ -1,7 +1,7 @@
 ## Japan Bivariate Choropleth Maps
 This project provides samples and source code examples of a bivariate choropleth map created using National Land Numerical Information. A bivariate choropleth map is an effective technique for visualizing two different variables (bivariate) on geographic space.
 
-↓Open-source GIS data(polygon) of (Ministry of Land, Infrastructure, Transport and Tourism : MLIT)
+↓Open-source GIS data(polygon) of MLIT(Ministry of Land, Infrastructure, Transport and Tourism)
 https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-v3_1.html
 
 
